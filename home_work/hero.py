@@ -1,6 +1,5 @@
 class superhero:
     people = 'people'
-
     def __init__(self, name, nickname, superpower, health_points, catchphrase):
         self.name = name
         self.nickname = nickname
