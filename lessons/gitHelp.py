@@ -11,6 +11,7 @@
 # file: .gitignore
 #
 #
+
 # полезные команды
 # git status | -s -показывает этапы файлов
 # git rm --cached namefile: рип файлов в репозитории
